@@ -14,6 +14,7 @@ Cinema Tracker is a simple movie management app. You can **add movies to your wa
 - (Optional) Any database (e.g., MongoDB, PostgreSQL)
 
 ## 🖼 Screenshot
+![App Screenshot](public/image1.png)
 ![App Screenshot](public/image.png)
 
 ## 🚀 Installation
