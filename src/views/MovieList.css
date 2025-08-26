@@ -1,0 +1,15 @@
+.container {
+  max-width: calc(3 * 300px + 2 * 58px);
+  margin: auto;
+  padding: 40px 0;
+  background-color: rgb(0, 173, 181);
+  padding: 28px;
+}
+
+.movie-list {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 30px 30px;
+}

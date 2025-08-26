@@ -1,0 +1,27 @@
+.movie {
+  padding: 15px 20px;
+  display: flex;
+  flex-direction: column;
+  border-radius: 20px;
+  width: 300px;
+  text-align: center;
+  background-color: rgb(76, 82, 92);
+}
+
+.movie .movie-img img {
+  border-radius: 30px;
+  margin-bottom: 20px;
+}
+
+.movie .movie-text {
+  font-size: 20px;
+  font-weight: 700;
+  margin-bottom: 5px;
+  line-height: 30px;
+}
+
+.movie .movie-genre {
+  font-size: 18px;
+  font-weight: 500;
+  margin-bottom: 5px;
+}
