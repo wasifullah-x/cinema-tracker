@@ -1,12 +1,29 @@
-# React + Vite
+# 🎬 Cinema Tracker
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Cinema Tracker is a simple movie management app. You can **add movies to your watchlist, delete them, and mark the ones you’ve already watched**. It helps you organize what to watch and what you’ve finished.
 
-Currently, two official plugins are available:
+## ✨ Features
+- Add movies to your list
+- Delete movies from the list
+- Mark movies as watched / unwatched
+- View your watchlist
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🛠 Tech Stack
+- React (frontend)
+- (Optional) Node / Express (backend)
+- (Optional) Any database (e.g., MongoDB, PostgreSQL)
 
-## Expanding the ESLint configuration
+## 🖼 Screenshot
+![App Screenshot](public/image.png)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🚀 Installation
+```bash
+# clone repo
+git clone https://github.com/yourusername/your-repo.git
+cd your-repo
+
+# install dependencies
+npm install
+
+# start dev server
+npm start
